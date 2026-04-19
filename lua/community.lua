@@ -22,7 +22,6 @@ return {
   { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.java" },
-  { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.dart" },
 
   -- others
