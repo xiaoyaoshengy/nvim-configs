@@ -19,6 +19,11 @@ return {
             "--header-insertion=never",
           },
         },
+        qmlls = {
+          cmd = {
+            "qmlls6",
+          },
+        },
       },
     },
   },
